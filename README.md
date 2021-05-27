@@ -5,4 +5,4 @@ This is a simple, front-end website that I agreed to assist a homie with. It's e
 
 -Progress so far-
 
-1.basic landing page- company logo in top left, navbar with button to respective pages, mouse color hover-since company logo uses a white and black color scheme, the cleanest look to me would be a white background with black text.
+1.basic landing page- company logo in top left, navbar with buttons to respective pages, mouse color hover-since company logo uses a white and black color scheme, the cleanest look to me would be a white background with black text.
