@@ -1,5 +1,3 @@
-These bitch-ass corporations dont want to give entry level devs a chance with a reasonable salary. Fuck you, I'll just front-end freelance til I get what I want.
-
 
 Just a simple website that I agreed to assist a homie with. It's essentially an e-commerce clothing store.
 
